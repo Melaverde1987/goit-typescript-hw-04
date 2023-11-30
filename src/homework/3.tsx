@@ -1,3 +1,4 @@
+/*
 import React, { useState } from 'react';
 
 export function FormComponent() {
@@ -11,3 +12,5 @@ export function FormComponent() {
     <input type="text" value={value} onChange={handleChange} />
   );
 }
+*/
+export {}

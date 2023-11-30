@@ -1,4 +1,5 @@
-import React, {useReducer} from "react";
+/*
+import React, { useReducer } from "react";
 
 const initialState: State = {
   isRequestInProgress: false,
@@ -49,3 +50,5 @@ export function RequestComponent() {
 }
 
 export default RequestComponent;
+*/
+export {}

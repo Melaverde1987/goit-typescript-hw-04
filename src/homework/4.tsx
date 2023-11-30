@@ -1,3 +1,4 @@
+/*
 import React, { createContext, useMemo, useState, useContext } from "react";
 import noop from "lodash/noop";
 
@@ -89,3 +90,5 @@ export function ComponentApp() {
     </MenuProvider>
   );
 }
+*/
+export {}
